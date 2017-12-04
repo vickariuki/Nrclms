@@ -1,6 +1,6 @@
 {
     "app_id" : "com.moodle.moodlemobile",
-    "appname": "NRC:LMS",
+    "appname": "Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode" : "2021",
     "versionname" : "3.4.0",
@@ -12,7 +12,7 @@
     "demo_sites": {"student": {"url": "https://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "https://school.demo.moodle.net", "username": "teacher", "password": "moodle"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "lms.nrcsystems.org",
+    "siteurl": "",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
