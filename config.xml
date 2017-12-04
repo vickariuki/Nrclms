@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20210"
         version   = "3.4.0">
-    <name>Moodle Mobile</name>
+    <name>Nrc LMS</name>
 
     <description>
-        Moodle Mobile official app
+       NRC Learning Portal
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://netwebkenya.com" email="info@netwebkenya.com">
+        Netweb Interactive
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
